@@ -11,7 +11,7 @@ Reddit sometimes contains some offensive images be careful with your search term
 ## Getting Started
 
 * Fork and clone this repository
-* Run `npm install` to install dependencies
+* Run `npm install` to install dependencies, then run `npm fund` to install all elements
   * `npm start` - start the BrowserSync server
   * `npm run lint:css` - lint CSS
   * `npm run lint:js` - lint JS
