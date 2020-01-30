@@ -69,6 +69,11 @@ It is important to break down any development project in to smaller pieces and t
 
 * Use Additional jQuery animation plugins
   * [jQuery Animation plugins](http://plugins.jquery.com/tag/animation/)
+  
+---
+## Additional Animation Resources
+* [Animate.CSS Library](https://daneden.github.io/animate.css/)
+* [Materialize CSS Carousel](https://materializecss.com/carousel.html)
 
 ---
 
